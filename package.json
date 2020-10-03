@@ -19,5 +19,10 @@
     "ts-jest": "26.4.1",
     "typescript": "4.0.3"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "homepage": "https://github.com/ryohey/reverse-tree",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryohey/reverse-tree.git"
+  }
 }
